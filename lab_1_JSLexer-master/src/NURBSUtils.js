@@ -468,11 +468,11 @@ THREE.NURBSUtils = {
 
 };
 
-/Mishon/Top
-/\0Mishon
+/Oleh/Top
+/\0Oleh
 /\//
 
-Mishon
+Оleh
 0os
 0o040
 0O044
